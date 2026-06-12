@@ -54,6 +54,5 @@ public class Main {
 
         System.out.println("Longest Common Subsequence length: " + ar[r - 1][c - 1]);
 
-        sc.close();
     }
 }

@@ -51,6 +51,5 @@ public class Main {
 
         System.out.println("Longest Common Substring length: " + l);
 
-        sc.close();
     }
 }
